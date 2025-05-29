@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Giancarlo Ramirez  
+- Certification:  Certificado Profesional desarrolar de android de meta
 
 ## Instructions
 Please replace the placeholders with your details:
